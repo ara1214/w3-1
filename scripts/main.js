@@ -15,7 +15,7 @@ myImage.onclick = function() {
 
 let myButton = document.querySelector('button');
 let myHeading = document.querySelector('h1');
-console.log(my
+console.log(myHeading);
 
 function setUserName() {
   let myName = prompt('名前を入力してください');
